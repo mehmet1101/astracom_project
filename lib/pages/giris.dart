@@ -127,7 +127,7 @@ class _FirstPageState extends State<FirstPage> {
                       },
                       style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.cyan.shade700),
-                      child: const Text('Submit'),
+                      child: const Text('SUBMIT'),
                     ),
                   ],
                 ),
